@@ -72,6 +72,6 @@ This lab provided hands-on experience with AWS IAM by demonstrating how organiza
 
 
 ## Author
-**Name:** AANANDHA KANNAN S 212224040003
+**Name:** KALPANAA BABU TM 212224230112
 **Course:** Introduction to Cloud Computing  
 
